@@ -7,7 +7,7 @@ I need to know the name of the instrument, category, and cost of renting it per 
 Each instrument I own has a unique ID that I need to know as well. The ID is the first 3 letters of 
 the intrument name and first 3 letters of instrument category.
 
-FYI - the first month the fee is X amount and after that each month it is $5 less than the month before. Fee includes tax.
+FYI - the fee includes tax.
 
 If the instrument has been returned already, I need to know the total profit I made (assuming there was no expenses involved)
 
