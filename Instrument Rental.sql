@@ -4,7 +4,7 @@ People rent instruments from me for short periods of time.
 I need a system that will help keep track of all my instruments. 
 I need to know the name of the instrument, category, and cost of renting it per month. 
 
-Each instrument I own has a unique ID that I need to know as well. The ID is the first 3 letters of 
+Each instrument I own has an ID that I need to know as well. The ID is the first 3 letters of 
 the intrument name and first 3 letters of instrument category.
 
 FYI - the fee includes tax.
@@ -45,7 +45,7 @@ Shmuli David, Piano, Percussion, $65, March 23, 2019, August 15, 2019
 Baila Weitz, Trumpet, Wind, $53, May 03, 2020, December 29, 2020
 Hadassah Gruber, Guitar, String, $42, January 03, 2020, September 28, 2020
 Rivkala Scheiner, Violin, String, $40, May 24, 2021, January 01, 2022
-Chaya Faiga Rothstein, Clarinet, Wind, $35, November 18, 2020, September 16, 2020
+Chaya Faiga Rothstein, Clarinet, Wind, $35, September 18, 2020, November 16, 2020
 Tehilah Katz, Guitar, String, $42, February 13, 2021, April 12, 2021
 
 Thank you!
