@@ -1,8 +1,8 @@
 use master 
 go
-drop database if exists MusicDB
+drop database if exists MusicRentalDB
 go
-create database MusicDB
+create database MusicRentalDB
 go
-use MusicDB
+use MusicRentalDB
 go
